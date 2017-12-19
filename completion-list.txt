@@ -3,3 +3,4 @@ Exercise 2 - PartiesList complete
 Exercise 3 - WhatsYourName complete
 Exercise 4 - Quiz complete
 Exercise 5 - Challenge-GroceryList-part-1 complete
+Exercise 6 - Challenge-GroceryList-part-2 complete
