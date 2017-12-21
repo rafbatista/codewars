@@ -5,3 +5,4 @@ Exercise 4 - Quiz complete
 Exercise 5 - Challenge-GroceryList-part-1 complete
 Exercise 6 - Challenge-GroceryList-part-2 complete
 Exercise 7 - Challenge-GroceryList-part-3 complete
+Exercise 8 - RenderComponent complete
