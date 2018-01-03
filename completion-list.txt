@@ -8,3 +8,4 @@ Exercise 7 - Challenge-GroceryList-part-3 complete
 Exercise 8 - RenderComponent complete
 Exercise 9 - LifeCycleMethods complete.
 Exercise 10 -  Complete.
+Exercise 11 -  Complete.
