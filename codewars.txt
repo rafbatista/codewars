@@ -1,0 +1,4 @@
+Completed Exercises
+
+How Many Unique Consonants
+https://www.codewars.com/kata/how-many-unique-consonants
